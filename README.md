@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nobo kumar</h1>
 <h3 align="center">A passionate frontend developer</h3>
-
+<img align="right" alt = "coding" width = "300" src ="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952qmgrsotwmoc9trhizkabiyjam2rzuezuajl6g871&ep=v1_gifs_search&rid=200w.gif&ct=g">
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nobokumar&label=Profile%20views&color=0e75b6&style=flat" alt="nobokumar" /> </p>
 
 - 🔭 I’m currently working on [odin project](https://www.theodinproject.com/)
