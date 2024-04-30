@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **nobokumar227@gmail.com**
 
-- ⚡ Fun fact **i am a non CSE student**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
