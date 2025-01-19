@@ -8,6 +8,8 @@ on:
     - cron: "0 0 * * *"
 
 jobs:
+permissions:
+  contents: write
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
