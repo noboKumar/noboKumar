@@ -4,15 +4,17 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nobokumar&label=Profile%20views&color=0e75b6&style=flat" alt="nobokumar" /> </p>
 
-- 🔭 I’m currently working on [odin project](https://www.theodinproject.com/)
+🌟 **Current Focus:**
+   - 🚀 Building projects with **The Odin Project** curriculum.
+   - 📘 Learning modern **JavaScript** (ES6+) and improving problem-solving skills.
 
-- 🌱 I’m currently learning **javaScript**
+🔧 **Skills:**
+   - 🌐 Proficient in **HTML**, **CSS**, and **JavaScript** for responsive web design.
+   - 🔍 Learning **React.js** and exploring full-stack development with **Node.js**.
 
-- 🤝 I’m looking for help with **web development**
-
-- 💬 Ask me about **web designing**
-
-- 📫 How to reach me **nobokumar227@gmail.com**
+🤝 **Collaboration:**
+   - Open to collaborating on **web development projects** and contributing to **open-source**.
+   - Reach me at **nobokumar227@gmail.com** for ideas or discussions!
 
 
 <h3 align="left">Connect with me:</h3>
