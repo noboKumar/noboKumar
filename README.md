@@ -59,4 +59,3 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nobokumar&show_icons=true&locale=en&layout=compact" alt="nobokumar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nobokumar&" alt="nobokumar" /></p>
-<a href="https://git.io/streak-stats"><img align="left" src="https://streak-stats.demolab.com?user=noboKumar&theme=dark&border_radius=5&hide_total_contributions=true" alt="GitHub Streak" /></a>
