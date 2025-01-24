@@ -45,8 +45,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-CSS          15 hrs 59 mins  ██████████████████▓░░░░░░   74.84 %
-HTML         5 hrs 22 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.12 %
+From: 16 January 2025 - To: 23 January 2025
+
+Total Time: 21 hrs 22 mins
+
+CSS          15 hrs 59 mins  ██████████████████▓░░░░░░   74.82 %
+HTML         5 hrs 22 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.14 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
