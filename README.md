@@ -45,15 +45,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 January 2025 - To: 30 January 2025
+From: 24 January 2025 - To: 31 January 2025
 
-Total Time: 21 hrs 13 mins
+Total Time: 27 hrs 33 mins
 
-HTML         19 hrs 53 mins  ███████████████████████▒░   93.53 %
-CSS          52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-JavaScript   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-TypeScript   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+HTML         27 hrs 5 mins   ████████████████████████▓   98.13 %
+JavaScript   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+TypeScript   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
