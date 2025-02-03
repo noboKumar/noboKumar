@@ -41,6 +41,8 @@
     </a>
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" alt="figma"/>
     </a>
+            <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="tailwind"/>
+    </a>
 
 <!--START_SECTION:waka-->
 
