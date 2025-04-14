@@ -31,18 +31,14 @@
    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS "><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg"  alt="css3"/> 
    </a>
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" alt="github"/>
-     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg"alt="html5"/>
-    </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg"alt="html5"/></a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="javascript"/>
     </a> 
-    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg" alt="ubuntu"/>
-    </a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" alt="git"/>
-    </a>
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" alt="figma"/>
-    </a>
-            <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="tailwind"/>
-    </a>
+    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg" alt="ubuntu"/></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" alt="git"/></a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" alt="figma"/></a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="tailwind"/></a>
+    <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="react"/></a>
 
 <!--START_SECTION:waka-->
 
