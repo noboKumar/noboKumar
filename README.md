@@ -38,7 +38,7 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" alt="git"/></a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" alt="figma"/></a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="tailwind"/></a>
-    <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="	https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" alt="react"/></a>
+    <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" alt="react"/></a>
 
 <!--START_SECTION:waka-->
 
