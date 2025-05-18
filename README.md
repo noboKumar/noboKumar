@@ -24,7 +24,7 @@
 <a href="https://www.instagram.com/crazy_nobo/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="https://www.instagram.com/crazy_nobo/"/></a>
 <a href="https://discord.gg/nobo#7101" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="nobo#7101"/></a>
 <a href="mailto:nobo227@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
- <a href="https://x.com/crazyXnobo" target="blank"><img align="center" src="![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)" alt="gmail"/></a>
+ <a href="https://x.com/crazyXnobo" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
