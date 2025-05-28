@@ -59,6 +59,6 @@ TypeScript   10 mins         ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noboKumar)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noboKumar&layout=compact&theme=dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=noboKumar&theme=transparent&border_radius=8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=noboKumar&theme=dark&border_radius=8)](https://git.io/streak-stats)
