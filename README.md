@@ -43,6 +43,8 @@
     <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg" alt="ubuntu"/></a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" alt="figma"/></a> <br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noboKumar&layout=compact&theme=dark)
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -58,7 +60,5 @@ TypeScript   10 mins         ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noboKumar&layout=compact&theme=dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=noboKumar&theme=dark&border_radius=8)](https://git.io/streak-stats)
