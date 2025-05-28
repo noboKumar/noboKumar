@@ -59,6 +59,6 @@ TypeScript   10 mins         ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nobokumar&show_icons=true&locale=en&layout=compact" alt="nobokumar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nobokumar&show_icons=true&locale=en&layout=compact" alt="nobokumar" /></p> <br/>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nobokumar&" alt="nobokumar" /></p>
