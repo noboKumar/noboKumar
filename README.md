@@ -61,4 +61,4 @@ TypeScript   10 mins         ░░░░░░░░░░░░░░░░░
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nobokumar&show_icons=true&locale=en&layout=compact" alt="nobokumar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nobokumar&" alt="nobokumar" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=noboKumar&theme=transparent&border_radius=8)](https://git.io/streak-stats)
