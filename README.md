@@ -50,15 +50,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2025 - To: 09 June 2025
+From: 03 June 2025 - To: 10 June 2025
 
-Total Time: 14 hrs 36 mins
+Total Time: 24 hrs 28 mins
 
-JavaScript   13 hrs 27 mins  ██████████████████████▓░░   91.02 %
-CSS          31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-Bash         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-HTML         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+JavaScript   23 hrs 17 mins  ███████████████████████▓░   94.48 %
+CSS          32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Bash         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+HTML         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
