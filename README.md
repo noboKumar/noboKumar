@@ -32,25 +32,27 @@ Iam **Nobo Kumar**, a dedicated **Full Stack Web Developer** focused on building
 <a href="mailto:nobo227@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg"alt="html5"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS "><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg"  alt="css3"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="javascript"/>
     </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="tailwind"/></a> <br/>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="tailwind"/></a> 
+ <br/>
     <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" alt="react"/></a>
      <a href="https://reactrouter.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="react-router"/></a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase1.svg" alt="firebase"/></a>
      <a href="https://axios-http.com/docs/intro" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios1.svg" alt="axios"/></a>
  <br/>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg" alt="VS-code"/></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" alt="git"/></a>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" alt="github"/>
-    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="	https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg" alt="nodejs"/></a>
+     <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg" alt="nodejs"/></a>
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg" alt="express"/></a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg" alt="mongodb"/></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" alt="git"/></a>
+ <br/>
     <a href="https://vite.dev/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs2.svg" alt="vite-js"/></a> <br/>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg" alt="VS-code"/></a>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" alt="github"/>
     <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg" alt="ubuntu"/></a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" alt="figma"/></a> 
  <br/>
