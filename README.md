@@ -18,16 +18,16 @@ Iam **Nobo Kumar**, a dedicated **Full Stack Web Developer** focused on building
 - 📬 Reach me at **nobokumar227@gmail.com** for collaboration, ideas, or dev discussions.
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📞Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nobo-kumar/" target="blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="linkedin"/></a>
  <a href="https://x.com/crazyXnobo" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
 <a href="https://www.facebook.com/crazy.nobo/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="https://www.facebook.com/crazy.nobo/"/></a>
 <a href="https://discord.gg/nobo#7101" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="nobo#7101"/></a>
-<a href="mailto:nobo227@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+<a href="mailto:nobokumar227@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
 </p>
 
-<h3 align="left">🛠️Languages and Tools:</h3>
+<h3 align="left">🛠️Skills & Technologies:</h3>
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg"alt="html5"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS "><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg"  alt="css3"/> </a>
