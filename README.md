@@ -1,7 +1,4 @@
 <img src="https://i.ibb.co/FLYTpT7D/React-Tailwind-CSS-Firebase-Node-js-Express-js-Mongo-DB.jpg" alt="banner-image" border="0">
-</hr>
-
-<img align="right" alt = "coding" width = "300" src ="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952qmgrsotwmoc9trhizkabiyjam2rzuezuajl6g871&ep=v1_gifs_search&rid=200w.gif&ct=g">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nobokumar&label=Profile%20views&color=0e75b6&style=flat" alt="nobokumar" /> </p>
 
@@ -21,7 +18,7 @@ Iam **Nobo Kumar**, a dedicated **Full Stack Web Developer** focused on building
 <h3 align="left">📞Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nobo-kumar/" target="blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="linkedin"/></a>
- <a href="https://x.com/crazyXnobo" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
+ <a href="https://x.com/noboKumar227" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
 <a href="https://www.facebook.com/crazy.nobo/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="https://www.facebook.com/crazy.nobo/"/></a>
 <a href="https://discord.gg/nobo#7101" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="nobo#7101"/></a>
 <a href="mailto:nobokumar227@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
