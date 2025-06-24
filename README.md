@@ -6,17 +6,18 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nobokumar&label=Profile%20views&color=0e75b6&style=flat" alt="nobokumar" /> </p>
 
-🌟 **Current Focus:**
-   - 🚀 Building projects with **The Odin Project** curriculum.
-   - 📘 Learning modern **JavaScript** (ES6+) and improving problem-solving skills.
+🌟 **Current Focus**  
+- 🚀 Advancing my full stack development skills by building real-world projects.  
+- 📘 Exploring advanced concepts in **JavaScript**, **React**, **Node.js**, and full-stack architecture.
 
-🔧 **Skills:**
-   - 🌐 Proficient in **HTML**, **CSS**, and **JavaScript** for responsive web design.
-   - 🔍 Learning **React.js** and exploring full-stack development with **Node.js**.
+🔧 **Skills**  
+- 🌐 Proficient in **HTML**, **CSS**, **JavaScript (ES6+)**, and **React.js** for responsive, interactive UI.  
+- 🎨 Styling with **Tailwind CSS** for modern, utility-first design.  
+- 🔧 Backend development with **Node.js**, **Express.js**, and **MongoDB** for scalable APIs.
 
-🤝 **Collaboration:**
-   - Open to collaborating on **web development projects** and contributing to **open-source**.
-   - Reach me at **nobokumar227@gmail.com** for ideas or discussions!
+🤝 **Collaboration**  
+- Open to collaborating on **web development projects** and contributing to **open-source initiatives**.  
+- 📬 Reach me at **nobokumar227@gmail.com** for ideas, projects, or just a dev chat!
 
 
 <h3 align="left">Connect with me:</h3>
