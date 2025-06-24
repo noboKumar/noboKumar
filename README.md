@@ -49,6 +49,8 @@ Iam **Nobo Kumar**, a dedicated **Full Stack Web Developer** focused on building
     <a href="https://vite.dev/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs2.svg" alt="vite-js"/></a> <br/>
     <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg" alt="ubuntu"/></a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" alt="figma"/></a> <br/>
+     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="figma"/></a>
+    
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noboKumar&layout=compact&theme=dark)
 
