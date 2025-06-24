@@ -50,7 +50,7 @@ Iam **Nobo Kumar**, a dedicated **Full Stack Web Developer** focused on building
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" alt="github"/>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" alt="figma"/></a> 
  <br/>
-   <img src="	https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg" alt="windows"/>
+   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg" alt="windows"/>
     <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg" alt="ubuntu"/></a>
     
 
