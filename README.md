@@ -8,7 +8,7 @@
 
 ### 👋 About Me
 
-I'm **Nobo Kumar**, a dedicated **Full Stack Web Developer** focused on building responsive and high-performance web applications using the **MERN stack** (**MongoDB**, **Express.js**, **React.js**, **Node.js**). I’m passionate about writing clean, efficient code and transforming ideas into scalable digital experiences.
+Iam **Nobo Kumar**, a dedicated **Full Stack Web Developer** focused on building responsive and high-performance web applications using the **MERN stack** (**MongoDB**, **Express.js**, **React.js**, **Node.js**). I am passionate about writing clean, efficient code and transforming ideas into scalable digital experiences.
 
 🌟 **Current Focus**  
 - 🚀 Advancing my full stack development skills by building real-world projects.  
