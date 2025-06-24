@@ -58,7 +58,19 @@ Iam **Nobo Kumar**, a dedicated **Full Stack Web Developer** focused on building
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" alt="figma"/></a> 
     
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noboKumar&layout=compact&theme=dark)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noboKumar&layout=compact&theme=dark" alt="Top Langs" />
+    </td>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=noboKumar&theme=dark&border_radius=8" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <!--START_SECTION:waka-->
 
@@ -75,5 +87,3 @@ Markdown     20 mins         ▓░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=noboKumar&theme=dark&border_radius=8)](https://git.io/streak-stats)
