@@ -6,18 +6,22 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nobokumar&label=Profile%20views&color=0e75b6&style=flat" alt="nobokumar" /> </p>
 
+### 👋 About Me
+
+I'm **Nobo Kumar**, a dedicated **Full Stack Web Developer** focused on building responsive and high-performance web applications using the **MERN stack** (**MongoDB**, **Express.js**, **React.js**, **Node.js**). I’m passionate about writing clean, efficient code and transforming ideas into scalable digital experiences.
+
 🌟 **Current Focus**  
 - 🚀 Advancing my full stack development skills by building real-world projects.  
-- 📘 Exploring advanced concepts in **JavaScript**, **React**, **Node.js**, and full-stack architecture.
+- 📘 Exploring advanced concepts in **JavaScript**, **React**, **Node.js**, and scalable backend architecture.
 
 🔧 **Skills**  
-- 🌐 Proficient in **HTML**, **CSS**, **JavaScript (ES6+)**, and **React.js** for responsive, interactive UI.  
-- 🎨 Styling with **Tailwind CSS** for modern, utility-first design.  
-- 🔧 Backend development with **Node.js**, **Express.js**, and **MongoDB** for scalable APIs.
+- 🌐 Proficient in **HTML**, **CSS**, **JavaScript (ES6+)**, and **React.js** for modern, interactive UIs.  
+- 🎨 Styling with **Tailwind CSS** for sleek and responsive design.  
+- 🛠️ Backend with **Node.js**, **Express.js**, and **MongoDB** for robust APIs and data handling.
 
 🤝 **Collaboration**  
-- Open to collaborating on **web development projects** and contributing to **open-source initiatives**.  
-- 📬 Reach me at **nobokumar227@gmail.com** for ideas, projects, or just a dev chat!
+- Always open to collaborating on **web development projects** and contributing to **open-source initiatives**.  
+- 📬 Reach me at **nobokumar227@gmail.com** for collaboration, ideas, or dev discussions.
 
 
 <h3 align="left">Connect with me:</h3>
