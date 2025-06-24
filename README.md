@@ -50,12 +50,12 @@ Iam **Nobo Kumar**, a dedicated **Full Stack Web Developer** focused on building
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg" alt="mongodb"/></a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" alt="git"/></a>
  <br/>
-    <a href="https://vite.dev/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs2.svg" alt="vite-js"/></a> <br/>
+    <a href="https://vite.dev/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs2.svg" alt="vite-js"/></a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg" alt="VS-code"/></a>
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" alt="github"/>
     <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg" alt="ubuntu"/></a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" alt="figma"/></a> 
  <br/>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" alt="figma"/></a> 
     
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noboKumar&layout=compact&theme=dark)
