@@ -47,7 +47,6 @@ Iam **Nobo Kumar**, a dedicated **Full Stack Web Developer** focused on building
  <br/>
     <a href="https://vite.dev/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs2.svg" alt="vite-js"/></a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg" alt="VS-code"/></a>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" alt="github"/>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" alt="figma"/></a> 
  <br/>
    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg" alt="windows"/>
