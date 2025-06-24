@@ -1,6 +1,7 @@
-<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7900E&center=true&vCenter=true&width=435&lines=Hi%2C+i+am+Nobo+kumar" alt="Typing SVG" /></a></h1>
-<h3 align="center">A passionate Web developer</h3>
 <img src="https://i.ibb.co/JFFPC8Dd/React-Tailwind-CSS-Firebase-Node-js-Express-js-Mongo-DB.jpg" alt="React-Tailwind-CSS-Firebase-Node-js-Express-js-Mongo-DB" border="0">
+<h3 align="center">A passionate Web developer</h3>
+
+<img align="right" alt = "coding" width = "300" src ="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952qmgrsotwmoc9trhizkabiyjam2rzuezuajl6g871&ep=v1_gifs_search&rid=200w.gif&ct=g">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nobokumar&label=Profile%20views&color=0e75b6&style=flat" alt="nobokumar" /> </p>
 
