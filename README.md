@@ -1,5 +1,5 @@
-<img src="https://i.ibb.co/JFFPC8Dd/React-Tailwind-CSS-Firebase-Node-js-Express-js-Mongo-DB.jpg" alt="React-Tailwind-CSS-Firebase-Node-js-Express-js-Mongo-DB" border="0">
-<h3 align="center">A passionate Web developer</h3>
+<img src="https://i.ibb.co/FLYTpT7D/React-Tailwind-CSS-Firebase-Node-js-Express-js-Mongo-DB.jpg" alt="React-Tailwind-CSS-Firebase-Node-js-Express-js-Mongo-DB" border="0">
+<h3 align="center">A passionate Full Stack Web Developer</h3>
 
 <img align="right" alt = "coding" width = "300" src ="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952qmgrsotwmoc9trhizkabiyjam2rzuezuajl6g871&ep=v1_gifs_search&rid=200w.gif&ct=g">
  
