@@ -13,11 +13,6 @@ Iam **Nobo Kumar**, a dedicated **Full Stack Web Developer** focused on building
 - 🚀 Advancing my full stack development skills by building real-world projects.  
 - 📘 Exploring advanced concepts in **JavaScript**, **React**, **Node.js**, and scalable backend architecture.
 
-🔧 **Skills**  
-- 🌐 Proficient in **HTML**, **CSS**, **JavaScript (ES6+)**, and **React.js** for modern, interactive UIs.  
-- 🎨 Styling with **Tailwind CSS** for sleek and responsive design.  
-- 🛠️ Backend with **Node.js**, **Express.js**, and **MongoDB** for robust APIs and data handling.
-
 🤝 **Collaboration**  
 - Always open to collaborating on **web development projects** and contributing to **open-source initiatives**.  
 - 📬 Reach me at **nobokumar227@gmail.com** for collaboration, ideas, or dev discussions.
