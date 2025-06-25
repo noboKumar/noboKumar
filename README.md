@@ -40,7 +40,7 @@ Iam **Nobo Kumar**, a dedicated **Full Stack Web Developer** focused on building
      <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg" alt="nodejs"/></a>
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg" alt="express"/></a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg" alt="mongodb"/></a>
- <img src="	https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt1.svg" alt="git"/>
+ <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt1.svg" alt="git"/>
  <br/>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" alt="git"/></a>
     <a href="https://vite.dev/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs2.svg" alt="vite-js"/></a>
