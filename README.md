@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/FLYTpT7D/React-Tailwind-CSS-Firebase-Node-js-Express-js-Mongo-DB.jpg" alt="banner-image" border="0">
+<img src="cover-photo.jpg" alt="banner-image" border="0">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nobokumar&label=Profile%20views&color=0e75b6&style=flat" alt="nobokumar" /> </p>
 
