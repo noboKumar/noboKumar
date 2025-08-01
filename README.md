@@ -47,6 +47,12 @@ Iam **Nobo Kumar**, a dedicated **Full Stack Web Developer** focused on building
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg" alt="VS-code"/></a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" alt="figma"/></a> 
  <br/>
+ <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query"/>
+</a>
+ <a href="https://react-hook-form.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form"/>
+</a>
    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg" alt="windows"/>
     <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg" alt="ubuntu"/></a>
     
