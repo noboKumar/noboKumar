@@ -74,13 +74,14 @@ Iam **Nobo Kumar**, a dedicated **Full Stack Web Developer** focused on building
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 August 2025 - To: 15 August 2025
+From: 09 August 2025 - To: 16 August 2025
 
-Total Time: 40 mins
+Total Time: 2 hrs 23 mins
 
-JavaScript   39 mins         ████████████████████████▓   99.11 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+JavaScript   2 hrs 3 mins    █████████████████████▒░░░   85.60 %
+JSON         15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
+CSS          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
