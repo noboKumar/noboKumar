@@ -25,36 +25,86 @@ Iam **Nobo Kumar**, a dedicated **Full Stack Web Developer** focused on building
 </p>
 
 <h3 align="left">🛠️Skills & Technologies:</h3>
-<p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg"alt="html5"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS "><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg"  alt="css3"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="javascript"/>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="tailwind"/></a> 
- <br/>
-    <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" alt="react"/></a>
-     <a href="https://reactrouter.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="react-router"/></a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase1.svg" alt="firebase"/></a>
-     <a href="https://axios-http.com/docs/intro" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios1.svg" alt="axios"/></a>
- <br/>
-     <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg" alt="nodejs"/></a>
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg" alt="express"/></a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg" alt="mongodb"/></a>
- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt1.svg" alt="git"/>
- <br/>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" alt="git"/></a>
-    <a href="https://vite.dev/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs2.svg" alt="vite-js"/></a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg" alt="VS-code"/></a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" alt="figma"/></a> 
- <br/>
- <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
+<p align="left">
+
+<!-- Frontend -->
+<strong>Frontend:</strong> <br/>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="html5"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" alt="css3"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="javascript"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="tailwind"/>
+</a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" alt="react"/>
+</a>
+<a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="react-router"/>
+</a>
+<a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query"/>
 </a>
- <a href="https://react-hook-form.com/" target="_blank" rel="noreferrer">
+<a href="https://react-hook-form.com/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form"/>
 </a>
-   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg" alt="windows"/>
-    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg" alt="ubuntu"/></a>
+
+<br/>
+
+<!-- Backend -->
+<strong>Backend:</strong> <br/>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg" alt="nodejs"/>
+</a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg" alt="express"/>
+</a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase1.svg" alt="firebase"/>
+</a>
+<a href="https://axios-http.com/docs/intro" target="_blank" rel="noreferrer">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios1.svg" alt="axios"/>
+</a>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt1.svg" alt="jwt"/>
+
+<br/>
+
+<!-- Database -->
+<strong>Database:</strong> <br/>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg" alt="mongodb"/>
+</a>
+
+<br/>
+
+<!-- Tools -->
+<strong>Tools:</strong> <br/>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" alt="git"/>
+</a>
+<a href="https://vite.dev/" target="_blank" rel="noreferrer">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs2.svg" alt="vite-js"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg" alt="VS-code"/>
+</a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" alt="figma"/>
+</a>
+<a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg" alt="windows"/>
+</a>
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg" alt="ubuntu"/>
+</a>
+
+</p>
+
     
 
 <table>
