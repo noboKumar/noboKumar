@@ -39,6 +39,9 @@ Iam **Nobo Kumar**, a dedicated **Full Stack Web Developer** focused on building
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="JavaScript"/>
 </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" alt="TypeScript"/>
+</a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="Tailwind CSS"/>
 </a>
@@ -112,7 +115,6 @@ Iam **Nobo Kumar**, a dedicated **Full Stack Web Developer** focused on building
 </a>
 
 </p>
-    
 
 <table>
   <tr>
