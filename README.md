@@ -58,7 +58,7 @@ Iam **Nobo Kumar**, a dedicated **Full Stack Web Developer** focused on building
   <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- Backend & Database -->
 <strong>Backend & Database:</strong> <br/>
@@ -76,8 +76,6 @@ Iam **Nobo Kumar**, a dedicated **Full Stack Web Developer** focused on building
 </a>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt1.svg" alt="JWT"/>
 
-<br/>
-
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg" alt="MongoDB"/>
 </a>
@@ -85,7 +83,7 @@ Iam **Nobo Kumar**, a dedicated **Full Stack Web Developer** focused on building
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg" alt="PostgreSQL"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- Tools -->
 <strong>Tools:</strong> <br/>
