@@ -57,7 +57,6 @@ Iam **Nobo Kumar**, a dedicated **Full Stack Web Developer** focused on building
 <a href="https://react-hook-form.com/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form"/>
 </a>
-
 <br/>
 
 <!-- Backend & Database -->
