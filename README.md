@@ -130,15 +130,15 @@ Iam **Nobo Kumar**, a dedicated **Full Stack Web Developer** focused on building
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2025 - To: 02 January 2026
+From: 27 December 2025 - To: 03 January 2026
 
-Total Time: 4 hrs 44 mins
+Total Time: 5 hrs 17 mins
 
-SQL          2 hrs 1 min     ██████████▓░░░░░░░░░░░░░░   42.50 %
-Prisma       54 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.96 %
-TSConfig     35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
-TypeScript   32 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
-JSON         22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
+SQL          2 hrs 1 min     █████████▓░░░░░░░░░░░░░░░   38.25 %
+Prisma       1 hr 9 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.84 %
+TypeScript   48 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.18 %
+TSConfig     35 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
+JSON         23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
 ```
 
 <!--END_SECTION:waka-->
