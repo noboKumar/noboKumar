@@ -42,15 +42,20 @@ Iam **Nobo Kumar**, a dedicated **Full Stack Web Developer** focused on building
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" alt="TypeScript"/>
 </a>
+</br>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="Tailwind CSS"/>
 </a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" alt="React"/>
 </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg" alt="Next.js"/>
+</a>
 <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/>
 </a>
+</br>
 <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query"/>
 </a>
@@ -98,6 +103,7 @@ Iam **Nobo Kumar**, a dedicated **Full Stack Web Developer** focused on building
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg" alt="Postman"/>
 </a>
+</br>
 <a href="https://vercel.com/" target="_blank" rel="noreferrer">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg" alt="Vercel"/>
 </a>
