@@ -1,4 +1,7 @@
-<img src="cover-photo.jpg" alt="banner-image" border="0">
+<div align="center">
+  <img src="cover-photo.jpg" alt="banner-image" style="width: 100%; height: auto; object-fit: cover;" />
+</div>
+
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nobokumar&label=Profile%20views&color=0e75b6&style=flat" alt="nobokumar" /> </p>
 <a href="https://wakatime.com/@63dbaf22-bd11-4441-a69f-d3d8bb546e94"><img src="https://wakatime.com/badge/user/63dbaf22-bd11-4441-a69f-d3d8bb546e94.svg" alt="Total time coded since Jan 18 2025" /></a>
