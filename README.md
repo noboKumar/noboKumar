@@ -90,6 +90,9 @@ Iam **Nobo Kumar**, a dedicated **Full Stack Web Developer** focused on building
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg" alt="PostgreSQL"/>
 </a>
 
+<a href="https://www.prisma.io/docs" target="_blank" rel="noreferrer">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg" alt="Prisma"/>
+
 <br/>
 
 <!-- Tools -->
