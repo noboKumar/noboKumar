@@ -6,9 +6,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nobokumar&label=Profile%20views&color=0e75b6&style=flat" alt="nobokumar" /> </p>
 <a href="https://wakatime.com/@63dbaf22-bd11-4441-a69f-d3d8bb546e94"><img src="https://wakatime.com/badge/user/63dbaf22-bd11-4441-a69f-d3d8bb546e94.svg" alt="Total time coded since Jan 18 2025" /></a>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&center=true&width=435&lines=Hi%2C+I+am+Nobo+Kumar;Jr.+Full+stack+Developer)](https://git.io/typing-svg)
+
 ### 👋 About Me
 
-Iam **Nobo Kumar**, a dedicated **Full Stack Web Developer** focused on building responsive and high-performance web applications using the **MERN stack** (**MongoDB**, **Express.js**, **React.js**, **Node.js**). I am passionate about writing clean, efficient code and transforming ideas into scalable digital experiences.
+<table>
+<tr>
+<td width="65%" valign="top">
+
+I am **Nobo Kumar**, a dedicated **Full Stack Web Developer** who builds modern digital solutions using **Next.js**, **React.js**, **Express.js**, **Prisma**, and **PostgreSQL**. I am passionate about writing clean, efficient code and transforming ideas into scalable, high-performance web applications.
 
 🌟 **Current Focus**  
 - 🚀 Advancing my full stack development skills by building real-world projects.  
@@ -17,6 +23,16 @@ Iam **Nobo Kumar**, a dedicated **Full Stack Web Developer** focused on building
 🤝 **Collaboration**  
 - Always open to collaborating on **web development projects** and contributing to **open-source initiatives**.  
 - 📬 Reach me at **nobokumar227@gmail.com** for collaboration, ideas, or dev discussions.
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzR1NzR0dWtoczM5dHZsMmFlbGlyOXhrNWQzODBrdDQ4NTl5N2RqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="280" alt="Developer GIF"/>
+
+</td>
+</tr>
+</table>
 
 
 <h3 align="left">📞Connect with me:</h3>
