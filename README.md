@@ -22,7 +22,7 @@
 <tr>
 <td width="65%" valign="top">
 
-I am **Nobo Kumar**, a dedicated **Full Stack Web Developer** who builds modern digital solutions using **Next.js**, **React.js**, **Express.js**, **Prisma**, and **PostgreSQL**. I am passionate about writing clean, efficient code and transforming ideas into scalable, high-performance web applications.
+I am **Nobo Kumar**, a dedicated **Full Stack Web Developer** who builds modern digital solutions using **Next.js**, **TypeScript**, **Express.js**, **Prisma**, and **PostgreSQL**. I am passionate about writing clean, efficient code and transforming ideas into scalable, high-performance web applications.
 
 🌟 **Current Focus**  
 - 🚀 Advancing my full stack development skills by building real-world projects.  
