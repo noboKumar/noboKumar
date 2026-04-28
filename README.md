@@ -2,11 +2,19 @@
   <img src="cover-photo.jpg" alt="banner-image" style="width: 100%; height: auto; object-fit: cover;" />
 </div>
 
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nobokumar&label=Profile%20views&color=0e75b6&style=flat" alt="nobokumar" /> </p>
-<a href="https://wakatime.com/@63dbaf22-bd11-4441-a69f-d3d8bb546e94"><img src="https://wakatime.com/badge/user/63dbaf22-bd11-4441-a69f-d3d8bb546e94.svg" alt="Total time coded since Jan 18 2025" /></a>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nobokumar&label=Profile%20views&color=0e75b6&style=flat" alt="nobokumar" />
+  &nbsp;&nbsp;
+  <a href="https://wakatime.com/@63dbaf22-bd11-4441-a69f-d3d8bb546e94">
+    <img src="https://wakatime.com/badge/user/63dbaf22-bd11-4441-a69f-d3d8bb546e94.svg" alt="Total time coded since Jan 18 2025" />
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&center=true&width=435&lines=Hi%2C+I+am+Nobo+Kumar;Jr.+Full+stack+Developer)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Nobo+Kumar;Jr.+Full+stack+Developer" alt="Typing SVG" />
+  </a>
+</p>
 
 ### 👋 About Me
 
@@ -33,7 +41,6 @@ I am **Nobo Kumar**, a dedicated **Full Stack Web Developer** who builds modern 
 </td>
 </tr>
 </table>
-
 
 <h3 align="left">📞Connect with me:</h3>
 <p align="left">
