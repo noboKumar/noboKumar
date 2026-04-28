@@ -51,8 +51,8 @@ I am **Nobo Kumar**, a dedicated **Full Stack Web Developer** who builds modern 
 <a href="mailto:nobokumar227@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
 </p>
 
-<h3 align="left">🛠️ Skills & Technologies:</h3>
-<p align="left">
+<h3 align="center">🛠️ Skills & Technologies:</h3>
+<div align="center">
 
 <!-- Frontend -->
 <strong>Frontend:</strong> <br/>
@@ -146,7 +146,7 @@ I am **Nobo Kumar**, a dedicated **Full Stack Web Developer** who builds modern 
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg" alt="Ubuntu"/>
 </a>
 
-</p>
+</div>
 
 <table>
   <tr>
