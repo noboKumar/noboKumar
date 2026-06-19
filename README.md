@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="chttps://i.ibb.co/0yL25wbs/fullstack-developer-cover-photo.png" alt="banner-image" style="width: 100%; height: auto; object-fit: cover;" />
+  <img src="https://i.ibb.co/0yL25wbs/fullstack-developer-cover-photo.png" alt="banner-image" style="width: 100%; height: auto; object-fit: cover;" />
 </div>
 
 <p align="left">
