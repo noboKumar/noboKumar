@@ -25,15 +25,23 @@
 <tr>
 <td width="65%" valign="top">
 
-I am **Nobo Kumar**, a dedicated **Full Stack Web Developer** who builds modern digital solutions using **Next.js**, **TypeScript**, **Express.js**, **Prisma**, and **PostgreSQL**. I am passionate about writing clean, efficient code and transforming ideas into scalable, high-performance web applications.
+Hi, I'm **Nobo Kumar**, a **Junior Full Stack Developer** from Bangladesh. I build scalable web applications using **Next.js**, **TypeScript**, **Node.js**, **Express.js**, **Prisma**, and **PostgreSQL**. I enjoy solving real-world problems, writing clean and maintainable code, and building applications that deliver a smooth user experience.
 
-🌟 **Current Focus**  
-- 🚀 Advancing my full stack development skills by building real-world projects.  
-- 📘 Exploring advanced concepts in **JavaScript**, **React**, **Node.js**, and scalable backend architecture.
+### 🌱 Current Focus
 
-🤝 **Collaboration**  
-- Always open to collaborating on **web development projects** and contributing to **open-source initiatives**.  
-- 📬 Reach me at **nobokumar227@gmail.com** for collaboration, ideas, or dev discussions.
+* Building production-ready full stack applications
+* Strengthening backend development and scalable system design
+* Exploring **Docker** and **CI/CD pipelines** for modern deployment workflows
+* Improving code quality and development best practices
+
+### 🤝 Open to Collaborate
+
+* Full stack web development projects
+* Open source contributions
+* Learning and sharing ideas with the developer community
+
+📫 **Reach me:** **[nobokumar227@gmail.com](mailto:nobokumar227@gmail.com)**
+
 
 </td>
 
