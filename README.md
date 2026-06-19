@@ -25,7 +25,7 @@
 <tr>
 <td width="65%" valign="top">
 
-Hi, I'm Nobo Kumar, a Junior Full Stack Developer from Bangladesh. I work with Next.js, TypeScript, Node.js, Express.js, Prisma, and PostgreSQL to build web applications that are both practical and scalable.
+Hi, I'm Nobo Kumar, a Junior Full Stack Developer from Bangladesh. I work with Next.js, TypeScript, Node.js, Express.js, Prisma, and PostgreSQL to build web applications that are both practical and scalable. </br>
 Most of my time goes into turning ideas into working systems, improving how things are structured behind the scenes, and writing code that stays readable even as projects grow.
 
 ### 🌱 Current Focus
