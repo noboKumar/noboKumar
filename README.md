@@ -24,6 +24,7 @@
 <table>
 <tr>
 <td width="65%" valign="top">
+</br>
 
 Hi, I'm Nobo Kumar, a Junior Full Stack Developer. I build with Next.js, React.js, TypeScript, Prisma, PostgreSQL and Node.js, focusing on structure, performance, and real-world use. </br> </br>
 Most of my time goes into turning ideas into working systems, improving how things are structured behind the scenes, and writing code that stays readable even as projects grow.
@@ -43,7 +44,7 @@ Most of my time goes into turning ideas into working systems, improving how thin
 
 📫 **Reach me:** **[nobokumar227@gmail.com](mailto:nobokumar227@gmail.com)**
 
-
+</br>
 </td>
 
 <td width="35%" align="center">
