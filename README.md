@@ -179,11 +179,14 @@ Most of my time goes into turning ideas into working systems, improving how thin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 June 2026 - To: 19 June 2026
+From: 13 June 2026 - To: 20 June 2026
 
-Total Time: 10 mins
+Total Time: 1 hr 33 mins
 
-Go   10 mins               █████████████████████████   100.00 %
+TypeScript   52 mins               ██████████████░░░░░░░░░░░   55.75 %
+Markdown     24 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.58 %
+Go           10 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
+CSS          6 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
 ```
 
 <!--END_SECTION:waka-->
