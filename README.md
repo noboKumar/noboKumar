@@ -179,15 +179,13 @@ Most of my time goes into turning ideas into working systems, improving how thin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 August 2026 - To: 18 August 2026
+From: 12 August 2026 - To: 19 August 2026
 
-Total Time: 1 hr 24 mins
+Total Time: 37 mins
 
-TypeScript   55 mins               ████████████████░░░░░░░░░   64.21 %
-JavaScript   15 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.54 %
-INI          8 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 %
-Markdown     4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
-Other        1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+TypeScript   17 mins               ████████████░░░░░░░░░░░░░   48.00 %
+JavaScript   15 mins               ██████████░░░░░░░░░░░░░░░   40.32 %
+Markdown     4 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
 ```
 
 <!--END_SECTION:waka-->
