@@ -179,15 +179,15 @@ Most of my time goes into turning ideas into working systems, improving how thin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2026 - To: 09 September 2026
+From: 03 September 2026 - To: 10 September 2026
 
-Total Time: 2 hrs 51 mins
+Total Time: 2 hrs 13 mins
 
-TypeScript   2 hrs                 ██████████████▓░░░░░░░░░░   58.48 %
-Other        34 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.78 %
-Prisma       24 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
-Markdown     17 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
-JSON         3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+TypeScript   1 hr 41 mins          ███████████████░░░░░░░░░░   60.38 %
+Other        34 mins               █████░░░░░░░░░░░░░░░░░░░░   20.53 %
+Markdown     17 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
+Prisma       5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+JSON         3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
 ```
 
 <!--END_SECTION:waka-->
